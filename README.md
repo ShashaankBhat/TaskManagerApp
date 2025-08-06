@@ -44,7 +44,7 @@ The application consists of four main tables:
 <img width="1062" height="620" alt="image" src="https://github.com/user-attachments/assets/c240db8f-5b56-43fe-b350-824fb5ae2ae9" />
 
 
-
+---
 
 
 <img width="1047" height="492" alt="image" src="https://github.com/user-attachments/assets/6cd8d768-83d9-4cc8-bbef-24d15fdbe169" />
