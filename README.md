@@ -96,7 +96,7 @@ git clone https://github.com/your-username/TaskManagerApp.git
 <img width="1171" height="589" alt="image" src="https://github.com/user-attachments/assets/ec874b31-018b-4d19-ab85-ca5901cc600e" />
 
 
-
+---
 
 2. Register
 
@@ -105,7 +105,7 @@ git clone https://github.com/your-username/TaskManagerApp.git
 <img width="1171" height="592" alt="image" src="https://github.com/user-attachments/assets/504ec269-5e33-4c31-8649-8143b5f1c40b" />
 
 
-
+---
 
 3. Login:
 
@@ -114,7 +114,7 @@ git clone https://github.com/your-username/TaskManagerApp.git
 <img width="1171" height="590" alt="image" src="https://github.com/user-attachments/assets/e6308b43-5895-4753-89d8-97b5c52e274c" />
 
 
-
+---
 
 4. Tasks 
 
@@ -135,7 +135,7 @@ git clone https://github.com/your-username/TaskManagerApp.git
 <img width="1171" height="594" alt="image" src="https://github.com/user-attachments/assets/fd9e53f0-af72-44b7-aba6-af0e3ef0943c" />
 
 
-
+---
 
 5. History of previous task 
 
@@ -144,7 +144,7 @@ git clone https://github.com/your-username/TaskManagerApp.git
 <img width="1171" height="512" alt="image" src="https://github.com/user-attachments/assets/86290bad-3392-412f-a509-2a0d0010acb6" />
 
 
-
+---
 
 6. Notes section 
 
