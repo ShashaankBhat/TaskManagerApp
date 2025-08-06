@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+         xmlns="https://jakarta.ee/xml/ns/jakartaee" 
+         xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd" 
+         version="6.0">
+
+  <servlet>
+    <servlet-name>RegisterServlet</servlet-name>
+    <servlet-class>RegisterServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>RegisterServlet</servlet-name>
+    <url-pattern>/RegisterServlet</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>LoginServlet</servlet-name>
+    <servlet-class>LoginServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>LoginServlet</servlet-name>
+    <url-pattern>/LoginServlet</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>TaskServlet</servlet-name>
+    <servlet-class>TaskServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>TaskServlet</servlet-name>
+    <url-pattern>/TaskServlet</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>DeleteTaskServlet</servlet-name>
+    <servlet-class>DeleteTaskServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>DeleteTaskServlet</servlet-name>
+    <url-pattern>/DeleteTaskServlet</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>NotesServlet</servlet-name>
+    <servlet-class>NotesServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>NotesServlet</servlet-name>
+    <url-pattern>/NotesServlet</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>AddNoteServlet</servlet-name>
+    <servlet-class>AddNoteServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>AddNoteServlet</servlet-name>
+    <url-pattern>/AddNoteServlet</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>EditNoteServlet</servlet-name>
+    <servlet-class>EditNoteServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>EditNoteServlet</servlet-name>
+    <url-pattern>/EditNoteServlet</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>UpdateNoteServlet</servlet-name>
+    <servlet-class>UpdateNoteServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>UpdateNoteServlet</servlet-name>
+    <url-pattern>/UpdateNoteServlet</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>DeleteNoteServlet</servlet-name>
+    <servlet-class>DeleteNoteServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>DeleteNoteServlet</servlet-name>
+    <url-pattern>/DeleteNoteServlet</url-pattern>
+  </servlet-mapping>
+
+</web-app>
